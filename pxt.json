@@ -1,0 +1,12 @@
+{
+    "name": "WifiTechno ESP8266",
+    "version": "0.0.1",
+    "description": "Extension pour ESP8266 Wifi/ThingSpeak IoT/ip fixe",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [        
+        "wifitechno.ts"
+    ],
+    "public": true
+}
